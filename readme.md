@@ -1,0 +1,1 @@
+A readme as required for the npm package in "how-to-npm".
