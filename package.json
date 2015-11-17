@@ -1,6 +1,6 @@
 {
-  "name": "belle-how-to-npm",
-  "version": "1.4.1",
+  "name": "@belle/pkg",
+  "version": "1.0.0",
   "description": "for nodeschool how-to-npm",
   "main": "index.js",
   "scripts": {
