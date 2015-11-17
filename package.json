@@ -14,7 +14,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/wazzletunk/how-to-npm.git"
+    "url": "git+https://github.com/wazzletunk/how-to-npm.git"
   },
   "bugs": {
     "url": "https://github.com/wazzletunk/how-to-npm/issues"
